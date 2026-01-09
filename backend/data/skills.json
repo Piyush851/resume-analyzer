@@ -1,0 +1,138 @@
+{
+    "Programming Languages": [
+        {
+            "name": "Python",
+            "aliases": [
+                "py",
+                "python3"
+            ]
+        },
+        {
+            "name": "Java",
+            "aliases": []
+        },
+        {
+            "name": "JavaScript",
+            "aliases": [
+                "JS",
+                "ES6",
+                "Node.js"
+            ]
+        },
+        {
+            "name": "C++",
+            "aliases": [
+                "cpp"
+            ]
+        },
+        {
+            "name": "C",
+            "aliases": [],
+            "case_sensitive": true
+        },
+        {
+            "name": "SQL",
+            "aliases": [
+                "mysql",
+                "postgres",
+                "postgresql"
+            ]
+        }
+    ],
+    "Frontend Frameworks": [
+        {
+            "name": "React",
+            "aliases": [
+                "React.js",
+                "ReactJS"
+            ]
+        },
+        {
+            "name": "Angular",
+            "aliases": [
+                "AngularJS"
+            ]
+        },
+        {
+            "name": "Vue.js",
+            "aliases": [
+                "Vue",
+                "VueJS"
+            ]
+        },
+        {
+            "name": "HTML/CSS",
+            "aliases": [
+                "HTML5",
+                "CSS3"
+            ]
+        }
+    ],
+    "Backend & Databases": [
+        {
+            "name": "Flask",
+            "aliases": []
+        },
+        {
+            "name": "Django",
+            "aliases": []
+        },
+        {
+            "name": "MongoDB",
+            "aliases": [
+                "Mongo"
+            ]
+        },
+        {
+            "name": "PostgreSQL",
+            "aliases": []
+        }
+    ],
+    "Machine Learning": [
+        {
+            "name": "TensorFlow",
+            "aliases": [
+                "TF"
+            ]
+        },
+        {
+            "name": "PyTorch",
+            "aliases": []
+        },
+        {
+            "name": "Scikit-Learn",
+            "aliases": [
+                "sklearn"
+            ]
+        },
+        {
+            "name": "Pandas",
+            "aliases": []
+        }
+    ],
+    "DevOps & Tools": [
+        {
+            "name": "Docker",
+            "aliases": []
+        },
+        {
+            "name": "Kubernetes",
+            "aliases": [
+                "k8s"
+            ]
+        },
+        {
+            "name": "Git",
+            "aliases": [
+                "github",
+                "gitlab"
+            ]
+        },
+        {
+            "name": "AWS",
+            "aliases": [
+                "Amazon Web Services"
+            ]
+        }
+    ]
+}
